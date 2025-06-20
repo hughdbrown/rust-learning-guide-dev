@@ -7,7 +7,7 @@
 
 ----
 
-- [Basics](beginner/setup.md)
+# Basics
   - [Setup](beginner/setup.md)
   - [Hello World](beginner/hello-world.md)
   - [Comments](beginner/comments.md)
@@ -16,12 +16,12 @@
   - [Constants & Statics](beginner/constants-statics.md)
   - [Functions](beginner/functions.md)
   - [Control Flow](beginner/control-flow.md)
-- [Memory Safety](beginner/ownership.md)
+# Memory Safety
   - [Ownership](beginner/ownership.md)
   - [Borrowing](beginner/borrowing.md)
   - [Slices](beginner/slices.md)
   - [Strings](beginner/strings.md)
-- [Custom Data Types](beginner/structs.md)
+# Custom Data Types
   - [Structs](beginner/structs.md)
   - [Implementation Blocks](beginner/implementation-blocks.md)
   - [Tuple Structs](beginner/tuple-structs.md)
@@ -30,14 +30,14 @@
   - [Option](beginner/option.md)
   - [Result](beginner/result.md)
   - [Vectors](beginner/vectors.md)
-- [Project Structure](beginner/project-structure.md)
+# Project Structure
   - [Project Structure Overview](beginner/project-structure.md)
   - [Modules](beginner/modules.md)
   - [External Dependencies](beginner/external-dependencies.md)
   - [Publishing Your Package](beginner/publishing-your-package.md)
   - [Cargo Features](beginner/cargo-features.md)
   - [Cargo Workspaces](beginner/cargo-workspaces.md)
-- [Testing](beginner/unit-tests.md)
+# Testing
   - [Unit Tests](beginner/unit-tests.md)
   - [Integration Tests](beginner/integration-tests.md)
   - [Benchmark Tests](beginner/benchmark-tests.md)
@@ -47,7 +47,7 @@
 
 ----
 
-- [Polymorphism](intermediate/generics.md)
+# Polymorphism
   - [Generics](intermediate/generics.md)
   - [Traits](intermediate/traits.md)
   - [Trait Bounds](intermediate/trait-bounds.md)
@@ -55,7 +55,7 @@
   - [Trait Objects](intermediate/trait-objects.md)
   - [Deriving Traits](intermediate/deriving-traits.md)
   - [Orphan Rule](intermediate/orphan-rule.md)
-- [Advanced Memory Management](intermediate/concrete-lifetimes.md)
+# Advanced Memory Management
   - [Concrete Lifetimes](intermediate/concrete-lifetimes.md)
   - [Generic Lifetimes](intermediate/generics-lifetimes.md)
   - [Lifetime Elision](intermediate/lifetime-elision.md)
@@ -63,19 +63,19 @@
   - [Rc Smart Pointer](intermediate/rc-smart-pointer.md)
   - [RefCell Smart Pointer](intermediate/refcell-smart-pointer.md)
   - [Deref Coercion](intermediate/deref-coercion.md)
-- [Error Handling](intermediate/unrecoverable-errors.md)
+# Error Handling
   - [Unrecoverable Errors](intermediate/unrecoverable-errors.md)
   - [Recoverable Errors](intermediate/recoverable-errors.md)
   - [Propagating Errors](intermediate/propagating-errors.md)
   - [Result and Option](intermediate/result-and-option.md)
   - [Multiple Error Types](intermediate/multiple-error-types.md)
-- [Advanced Error Handling](intermediate/avoiding-unwrap.md)
+# Advanced Error Handling
   - [Avoiding Unwrap](intermediate/avoiding-unwrap.md)
   - [Custom Errors](intermediate/custom-errors.md)
   - [thiserror](intermediate/thiserror.md)
   - [anyhow](intermediate/anyhow.md)
   - [error-stack](intermediate/error-stack.md)
-- [Functional Programming](intermediate/closures.md)
+# Functional Programming
   - [Closures](intermediate/closures.md)
   - [Function Pointers](intermediate/function-pointers.md)
   - [Iterator Pattern](intermediate/iterator-pattern.md)
@@ -86,7 +86,7 @@
 
 ----
 
-- [Concurrency](advanced/intro-to-concurrency.md)
+# Concurrency
   - [Intro to Concurrency](advanced/intro-to-concurrency.md)
   - [Creating Threads](advanced/creating-threads.md)
   - [Moving Values into Threads](advanced/moving-values-into-threads.md)
@@ -96,14 +96,14 @@
   - [async/.await](advanced/async-await-traits.md)
   - [Tokio Tasks](advanced/tokio-tasks.md)
   - [Tokio Streams](advanced/tokio-streams.md)
-- [Macros](advanced/intro-to-macros.md)
+# Macros
   - [Intro to Macros](advanced/intro-to-macros.md)
   - [Declarative Macros](advanced/declarative-macros.md)
   - [Procedural Macros](advanced/procedural-macros.md)
   - [Custom Derive](advanced/custom-derive.md)
   - [Attribute Like](advanced/attribute-like.md)
   - [Function Like](advanced/function-like.md)
-- [Unsafe Rust and FFI](advanced/intro-to-unsafe-rust.md)
+# Unsafe Rust and FFI
   - [Intro to Unsafe Rust](advanced/intro-to-unsafe-rust.md)
   - [Dereferencing Raw Pointers](advanced/dereferencing-raw-pointers.md)
   - [Calling Unsafe Functions](advanced/calling-unsafe-functions.md)
@@ -118,12 +118,12 @@
 
 ----
 
-- [Masterclasses](further-learning/rust-based-computer-science.md)
+# Masterclasses
   - [Rust Based Computer Science](further-learning/rust-based-computer-science.md)
   - [Deep Dive into Strings in Rust](further-learning/deep-dive-into-string-in-rust.md)
   - [Building Microservices in Rust](further-learning/building-microservices-in-rust.md)
   - [Systems Programming in Rust](further-learning/systems-programming-in-rust.md)
-- [Projects](further-learning/cli-project.md)
+# Projects
   - [CLI Project](further-learning/cli-project.md)
   - [API Project](further-learning/api-project.md)
   - [Microservices Project](further-learning/mircoservices-project.md)
